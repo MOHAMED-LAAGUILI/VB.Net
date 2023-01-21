@@ -1,0 +1,10 @@
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\bin\Debug\WindowsApplication000.exe
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\bin\Debug\WindowsApplication000.pdb
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\bin\Debug\WindowsApplication000.xml
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\WindowsApplication000.Form1.resources
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\WindowsApplication000.Resources.resources
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\WindowsApplication000.vbproj.GenerateResource.Cache
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\WindowsApplication000.exe
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\WindowsApplication000.xml
+C:\Users\21261\AppData\Local\Temporary Projects\WindowsApplication000\obj\Debug\WindowsApplication000.pdb

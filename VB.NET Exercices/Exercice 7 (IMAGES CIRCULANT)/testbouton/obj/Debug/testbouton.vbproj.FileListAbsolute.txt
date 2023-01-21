@@ -1,0 +1,23 @@
+D:\TS_DI_VB\testbouton\testbouton\bin\Debug\testbouton.exe
+D:\TS_DI_VB\testbouton\testbouton\bin\Debug\testbouton.pdb
+D:\TS_DI_VB\testbouton\testbouton\bin\Debug\testbouton.xml
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\ResolveAssemblyReference.cache
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.testimage.resources
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.Resources.resources
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.vbproj.GenerateResource.Cache
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.exe
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.xml
+D:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.pdb
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.exe
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.xml
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.pdb
+F:\TS_DI_VB\testbouton\testbouton\bin\Debug\testbouton.exe
+F:\TS_DI_VB\testbouton\testbouton\bin\Debug\testbouton.pdb
+F:\TS_DI_VB\testbouton\testbouton\bin\Debug\testbouton.xml
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\ResolveAssemblyReference.cache
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.testimage.resources
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.Resources.resources
+F:\TS_DI_VB\testbouton\testbouton\obj\Debug\testbouton.vbproj.GenerateResource.Cache
+F:\Programming Languages\VB.NET\testbouton\testbouton\obj\Debug\testbouton.exe
+F:\Programming Languages\VB.NET\testbouton\testbouton\obj\Debug\testbouton.xml
+F:\Programming Languages\VB.NET\testbouton\testbouton\obj\Debug\testbouton.pdb

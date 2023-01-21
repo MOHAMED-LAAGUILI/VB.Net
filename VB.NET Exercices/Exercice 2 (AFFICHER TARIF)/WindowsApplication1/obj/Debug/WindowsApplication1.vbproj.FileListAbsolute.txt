@@ -1,0 +1,52 @@
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\WindowsApplication2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GestionDesBillets.resources
+F:\Microsoft Office 365\VB Express 2008\WindowsApplication2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Microsoft Office 365\VB Express 2008\WindowsApplication2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Microsoft Office 365\VB Express 2008\WindowsApplication2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Microsoft Office 365\VB Express 2008\Afficher Le Prix (2)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Microsoft Office 365\VB Express 2008\Afficher Le Prix (2)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Microsoft Office 365\VB Express 2008\Afficher Le Prix (2)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Programming Languages\VB Language\Afficher Le Prix de Aéport (2)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Programming Languages\VB Language\Afficher Le Prix de Aéport (2)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Programming Languages\VB Language\Afficher Le Prix de Aéport (2)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\WindowsApplication1.GestionDesBillets.resources
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Programming Languages\VB Language\2 (Afficher Le Prix de Aéport)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\WindowsApplication1.GestionDesBillets.resources
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Programming Languages\VB.NET\2 (Afficher Le Prix a Payer)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.GestionDesBillets.resources
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\VB.NET\VB.NET Exercices\Exercice 2 (AFFICHER TARIF)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

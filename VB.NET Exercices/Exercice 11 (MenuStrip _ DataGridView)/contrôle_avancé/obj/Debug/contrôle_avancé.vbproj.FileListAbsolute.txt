@@ -1,0 +1,33 @@
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\bin\Debug\contrôle_avancé.exe
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\bin\Debug\contrôle_avancé.pdb
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\bin\Debug\contrôle_avancé.xml
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\ResolveAssemblyReference.cache
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.style_police.resources
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.Resources.resources
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.testimage.resources
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.vbproj.GenerateResource.Cache
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.exe
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.xml
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.pdb
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.Liste_simple.resources
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.Liste_Multiple.resources
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.menu_general.resources
+D:\TS1DI VB\contrôle_avancé\contrôle_avancé\obj\Debug\contrôle_avancé.Etudiant.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.exe
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.xml
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.pdb
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\bin\Debug\contrôle_avancé.exe
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\bin\Debug\contrôle_avancé.pdb
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\bin\Debug\contrôle_avancé.xml
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\ResolveAssemblyReference.cache
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.Etudiant.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.Liste_Multiple.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.Liste_simple.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.menu_general.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.style_police.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.Resources.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.testimage.resources
+F:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.vbproj.GenerateResource.Cache
+E:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.exe
+E:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.xml
+E:\VB.NET\VB.NET Exercices\Exercice 11 (MenuStrip _ DataGridView)\contrôle_avancé\obj\Debug\contrôle_avancé.pdb

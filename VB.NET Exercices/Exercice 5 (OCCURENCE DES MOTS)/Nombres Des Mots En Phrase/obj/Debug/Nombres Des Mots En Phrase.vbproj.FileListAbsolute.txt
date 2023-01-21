@@ -1,0 +1,23 @@
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\bin\Debug\Nombres Des Mots En Phrase.exe
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\bin\Debug\Nombres Des Mots En Phrase.pdb
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\bin\Debug\Nombres Des Mots En Phrase.xml
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\ResolveAssemblyReference.cache
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\Nombres_Des_Mots_En_Phrase.Form1.resources
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\Nombres_Des_Mots_En_Phrase.Resources.resources
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.vbproj.GenerateResource.Cache
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.exe
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.xml
+E:\Programming Languages\VB Language\Nombres Des Mots En Phrase\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.pdb
+E:\Programming Languages\VB Language\5 (Nombres Des Mots En Phrase)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.exe
+E:\Programming Languages\VB Language\5 (Nombres Des Mots En Phrase)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.xml
+E:\Programming Languages\VB Language\5 (Nombres Des Mots En Phrase)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.pdb
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.exe
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.xml
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.pdb
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\bin\Debug\Nombres Des Mots En Phrase.exe
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\bin\Debug\Nombres Des Mots En Phrase.pdb
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\bin\Debug\Nombres Des Mots En Phrase.xml
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\Nombres_Des_Mots_En_Phrase.Form1.resources
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\Nombres_Des_Mots_En_Phrase.Resources.resources
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 5 (OCCURENCE)\Nombres Des Mots En Phrase\obj\Debug\Nombres Des Mots En Phrase.vbproj.GenerateResource.Cache

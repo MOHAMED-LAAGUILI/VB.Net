@@ -1,0 +1,10 @@
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\bin\Debug\Controle 1.exe
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\bin\Debug\Controle 1.pdb
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\bin\Debug\Controle 1.xml
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\Controle_1.Form1.resources
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\Controle_1.Resources.resources
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\Controle 1.vbproj.GenerateResource.Cache
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\Controle 1.exe
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\Controle 1.xml
+F:\Programming Languages\VB.NET\Controle 1\Controle 1\obj\Debug\Controle 1.pdb

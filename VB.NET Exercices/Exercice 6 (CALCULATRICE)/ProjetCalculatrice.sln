@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProjetCalculatrice", "ProjetCalculatrice\ProjetCalculatrice.vbproj", "{0EFE1604-BA40-4E64-B1C5-0B6CB9ED27CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFE1604-BA40-4E64-B1C5-0B6CB9ED27CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFE1604-BA40-4E64-B1C5-0B6CB9ED27CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFE1604-BA40-4E64-B1C5-0B6CB9ED27CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFE1604-BA40-4E64-B1C5-0B6CB9ED27CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

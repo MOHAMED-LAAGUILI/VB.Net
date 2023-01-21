@@ -1,0 +1,48 @@
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\PC-02\Desktop\saad tahiri\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Facture.resources
+F:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Programming Languages\Visuel Basic\Formateur L3assal VB_Exercices\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\Programming Languages\Visuel Basic\Formateur L3assal VB_Exercices\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\Programming Languages\Visuel Basic\Formateur L3assal VB_Exercices\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Gebruiker\OneDrive\Desktop\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Gebruiker\OneDrive\Desktop\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.Facture.resources
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+E:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+F:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\Microsoft Office 365\VB Express 2008\WindowsApplication1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Microsoft Office 365\VB Express 2008\Calcul Tva (1)\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\Microsoft Office 365\VB Express 2008\Calcul Tva (1)\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\Microsoft Office 365\VB Express 2008\Calcul Tva (1)\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Programming Languages\VB Language\Calcul Tva (1)\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\Programming Languages\VB Language\Calcul Tva (1)\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\Programming Languages\VB Language\Calcul Tva (1)\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\WindowsApplication2.Facture.resources
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+F:\Programming Languages\VB.NET\1 (Calcul Tva)\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

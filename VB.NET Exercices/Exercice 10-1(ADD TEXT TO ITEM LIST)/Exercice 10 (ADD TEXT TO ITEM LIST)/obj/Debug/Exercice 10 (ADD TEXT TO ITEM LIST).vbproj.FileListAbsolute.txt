@@ -1,0 +1,13 @@
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\bin\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).exe
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\bin\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).pdb
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\bin\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).xml
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\ResolveAssemblyReference.cache
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\WindowsApplication1.Form1.resources
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\WindowsApplication1.Resources.resources
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).vbproj.GenerateResource.Cache
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).exe
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).xml
+F:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).pdb
+E:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).exe
+E:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).xml
+E:\VB.NET\VB.NET Exercices\Exercice 10-1(ADD TEXT TO ITEM LIST)\Exercice 10 (ADD TEXT TO ITEM LIST)\obj\Debug\Exercice 10 (ADD TEXT TO ITEM LIST).pdb

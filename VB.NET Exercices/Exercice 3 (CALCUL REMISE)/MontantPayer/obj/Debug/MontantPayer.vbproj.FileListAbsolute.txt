@@ -1,0 +1,45 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\bin\Debug\MontantPayer.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\bin\Debug\MontantPayer.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\bin\Debug\MontantPayer.xml
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.CalculMontantPayer.resources
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.Resources.resources
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.vbproj.GenerateResource.Cache
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.xml
+C:\Users\Gebruiker\OneDrive\Desktop\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.pdb
+F:\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.exe
+F:\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.xml
+F:\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.pdb
+D:\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.exe
+D:\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.xml
+D:\Exercices\MontantPayer\MontantPayer\obj\Debug\MontantPayer.pdb
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\MontantPayer.exe
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\MontantPayer.xml
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\MontantPayer.pdb
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\bin\Debug\MontantPayer.exe
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\bin\Debug\MontantPayer.pdb
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\bin\Debug\MontantPayer.xml
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\MontantPayer.CalculMontantPayer.resources
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\MontantPayer.Resources.resources
+D:\Programming Languages\VB Language\MontantPayer\MontantPayer\obj\Debug\MontantPayer.vbproj.GenerateResource.Cache
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.exe
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.xml
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.pdb
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\bin\Debug\MontantPayer.exe
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\bin\Debug\MontantPayer.pdb
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\bin\Debug\MontantPayer.xml
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.CalculMontantPayer.resources
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.Resources.resources
+D:\Programming Languages\VB Language\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.vbproj.GenerateResource.Cache
+F:\Programming Languages\VB.NET\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.exe
+F:\Programming Languages\VB.NET\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.xml
+F:\Programming Languages\VB.NET\3 (Calcul Remise)\MontantPayer\obj\Debug\MontantPayer.pdb
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 3 ( CALCUL REMISE)\MontantPayer\obj\Debug\MontantPayer.exe
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 3 ( CALCUL REMISE)\MontantPayer\obj\Debug\MontantPayer.xml
+F:\Programming Languages\VB.NET\VB.NET Exercices\Exercice 3 ( CALCUL REMISE)\MontantPayer\obj\Debug\MontantPayer.pdb
+E:\MIAGE K.E.K\1er année\VB.Net\VB.NET Exercices\Exercice 3 (CALCUL REMISE)\MontantPayer\obj\Debug\MontantPayer.exe
+E:\MIAGE K.E.K\1er année\VB.Net\VB.NET Exercices\Exercice 3 (CALCUL REMISE)\MontantPayer\obj\Debug\MontantPayer.xml
+E:\MIAGE K.E.K\1er année\VB.Net\VB.NET Exercices\Exercice 3 (CALCUL REMISE)\MontantPayer\obj\Debug\MontantPayer.pdb

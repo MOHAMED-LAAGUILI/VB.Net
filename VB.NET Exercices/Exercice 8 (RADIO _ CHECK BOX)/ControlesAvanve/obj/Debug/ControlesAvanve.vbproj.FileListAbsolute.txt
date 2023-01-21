@@ -1,0 +1,19 @@
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\bin\Debug\ControlesAvanve.exe
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\bin\Debug\ControlesAvanve.pdb
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\bin\Debug\ControlesAvanve.xml
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ResolveAssemblyReference.cache
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.TestControle.resources
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.Resources.resources
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.vbproj.GenerateResource.Cache
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.exe
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.xml
+D:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.pdb
+F:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.exe
+F:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.xml
+F:\TS_DI_VB\ControlesAvanve\ControlesAvanve\obj\Debug\ControlesAvanve.pdb
+F:\Programming Languages\VB.NET\Exercice 8 ()\ControlesAvanve\obj\Debug\ControlesAvanve.exe
+F:\Programming Languages\VB.NET\Exercice 8 ()\ControlesAvanve\obj\Debug\ControlesAvanve.xml
+F:\Programming Languages\VB.NET\Exercice 8 ()\ControlesAvanve\obj\Debug\ControlesAvanve.pdb
+F:\Programming Languages\VB.NET\Exercice 8 (CHECK BOX USAG)\ControlesAvanve\obj\Debug\ControlesAvanve.exe
+F:\Programming Languages\VB.NET\Exercice 8 (CHECK BOX USAG)\ControlesAvanve\obj\Debug\ControlesAvanve.xml
+F:\Programming Languages\VB.NET\Exercice 8 (CHECK BOX USAG)\ControlesAvanve\obj\Debug\ControlesAvanve.pdb

@@ -1,0 +1,23 @@
+D:\TS_DI_VB\somme\somme\bin\Debug\somme.exe
+D:\TS_DI_VB\somme\somme\bin\Debug\somme.pdb
+D:\TS_DI_VB\somme\somme\bin\Debug\somme.xml
+D:\TS_DI_VB\somme\somme\obj\Debug\ResolveAssemblyReference.cache
+D:\TS_DI_VB\somme\somme\obj\Debug\somme.Form1.resources
+D:\TS_DI_VB\somme\somme\obj\Debug\somme.Resources.resources
+D:\TS_DI_VB\somme\somme\obj\Debug\somme.vbproj.GenerateResource.Cache
+D:\TS_DI_VB\somme\somme\obj\Debug\somme.exe
+D:\TS_DI_VB\somme\somme\obj\Debug\somme.xml
+D:\TS_DI_VB\somme\somme\obj\Debug\somme.pdb
+F:\TS_DI_VB\somme\somme\obj\Debug\somme.exe
+F:\TS_DI_VB\somme\somme\obj\Debug\somme.xml
+F:\TS_DI_VB\somme\somme\obj\Debug\somme.pdb
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\somme.exe
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\somme.xml
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\somme.pdb
+F:\Programming Languages\VB.NET\somme\somme\bin\Debug\somme.exe
+F:\Programming Languages\VB.NET\somme\somme\bin\Debug\somme.pdb
+F:\Programming Languages\VB.NET\somme\somme\bin\Debug\somme.xml
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\somme.Form1.resources
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\somme.Resources.resources
+F:\Programming Languages\VB.NET\somme\somme\obj\Debug\somme.vbproj.GenerateResource.Cache
